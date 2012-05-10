@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+   android:layout_height="wrap_content"
+   android:gravity="bottom">
+   
+   
+    <TableLayout 
+    android:layout_width="wrap_content" 
+    android:layout_height="match_parent" 
+    android:id="@+id/tableLayout1">
+    
+        <CheckedTextView 
+        android:editable="true"
+        android:id="@+id/checkedTextView1" 
+        android:layout_height="wrap_content" 
+        android:textSize="15pt" 
+        android:layout_width="wrap_content" 
+        android:text="@string/note_title">
+        </CheckedTextView>
+        
+        <MultiAutoCompleteTextView   
+        android:editable="true"
+        android:layout_height="wrap_content" 
+        android:id="@+id/multiAutoCompleteTextView1" 
+        android:layout_width="wrap_content" 
+        android:text="@string/note_content">
+        </MultiAutoCompleteTextView>
+    </TableLayout>
+  
+  
+  
+  
+</LinearLayout>

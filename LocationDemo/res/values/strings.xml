@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Toll Demo</string>
+    <string name="database_display">Database Display</string>
+    <string name="showDB">Show Database</string>
+    <string name="map_viewer">MapViewer</string>
+    <string name="debug">Debug</string>
+    <string name="no_datasets"></string>
+    <string name="notification_title">Location Demo Notifications</string>
+    <string name="notification_content">You are approaching Toll: </string>
+    
+    
+    
+</resources>

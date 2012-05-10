@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="numstr">Random Number:</string>
+    <string name="app_name">Random Generator</string>
+    <string name= "generate_random">Generate Random</string>
+</resources>

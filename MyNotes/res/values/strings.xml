@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Notes!</string>
+    <string name="app_name">My Notes</string>
+    <string name="new_note">New Note</string>
+    <string name="note_title">Note 1</string>
+   <string name="note_content">Hello this is the note content of note 1</string>
+</resources>
