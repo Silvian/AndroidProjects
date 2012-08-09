@@ -15,8 +15,8 @@ public final class R {
     }
     public static final class id {
         public static final int body=0x7f050001;
-        public static final int confirm=0x7f050002;
-        public static final int delete=0x7f050003;
+        public static final int confirm=0x7f050003;
+        public static final int delete=0x7f050002;
         public static final int text1=0x7f050004;
         public static final int title=0x7f050000;
     }

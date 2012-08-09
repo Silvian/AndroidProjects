@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MaynoothIndoorNavigatorActivity!</string>
+    <string name="app_name">Maynooth Navigator</string>
+    <string name="satellite_view">Satellite View</string>
+    <string name="zoom_controls">Zoom Controls</string>
+    <string name= "compass_mode">Compass Mode</string>
+    <string name= "settings_menu">Settings</string>
+    <string name= "scanner_menu">Scanner</string>
+    <string name= "stop_menu">Stop Location Services</string>
+
+</resources>

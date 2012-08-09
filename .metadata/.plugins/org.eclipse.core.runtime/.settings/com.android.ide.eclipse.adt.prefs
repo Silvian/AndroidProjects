@@ -1,3 +1,4 @@
-#Fri Mar 16 15:58:18 GMT 2012
+com.android.ide.eclipse.adt.fixLegacyEditors=1
+com.android.ide.eclipse.adt.monitorDensity=138.0
 com.android.ide.eclipse.adt.sdk=/home/silvian/android-sdk-linux
 eclipse.preferences.version=1

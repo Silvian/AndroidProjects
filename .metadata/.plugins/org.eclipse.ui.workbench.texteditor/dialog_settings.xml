@@ -2,8 +2,8 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
 		<item value="316" key="DIALOG_WIDTH"/>
-		<item value="161" key="DIALOG_Y_ORIGIN"/>
-		<item value="673" key="DIALOG_X_ORIGIN"/>
+		<item value="325" key="DIALOG_Y_ORIGIN"/>
+		<item value="924" key="DIALOG_X_ORIGIN"/>
 		<item value="437" key="DIALOG_HEIGHT"/>
 		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
 	</section>
@@ -13,12 +13,16 @@
 		<item value="false" key="isRegEx"/>
 		<item value="false" key="incremental"/>
 		<item value="false" key="wholeword"/>
-		<item value="" key="selection"/>
+		<item value="Location" key="selection"/>
 		<list key="findhistory">
-			<item value="map"/>
-			<item value="title"/>
-			<item value="LocationDemo"/>
-			<item value="running"/>
+			<item value="location"/>
+			<item value="pin"/>
+			<item value="removeUpdate"/>
+			<item value="myPoint2"/>
+			<item value="myPoint1"/>
+			<item value="createMarker"/>
+			<item value="removeUpdates"/>
+			<item value="GeoUpdateHandler"/>
 		</list>
 		<list key="replacehistory">
 		</list>

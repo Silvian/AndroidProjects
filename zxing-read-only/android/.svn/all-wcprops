@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2340/trunk/android
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2320/trunk/android/AndroidManifest.xml
+END
+ant.properties
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2008/trunk/android/ant.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2043/trunk/android/build.xml
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2338/trunk/android/project.properties
+END
