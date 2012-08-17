@@ -40,13 +40,14 @@ public class MaynoothIndoorNavigatorActivity extends MapActivity {
 	private MapView mapView;
 	private MapController mapController;
 	private LocationManager locationManager;
-    private GeoPoint point;
+    private GeoPoint p;
     private MyLocationOverlay myLocationOverlay;
     private LocationListener locationListener;
     private MyOverlays itemizedoverlay;
     private SettingsController settings = new SettingsController();
     private String [] coordinates = {"53.383149", "-6.602446"};
     private ScanController scanController = new ScanController();
+    private GeoUpdateHandler geoUpdate = new GeoUpdateHandler();
     private static final int SETTINGS_ID = Menu.FIRST;
     private static final int SCANNER_ID = Menu.FIRST + 1;
     
@@ -115,11 +116,11 @@ public class MaynoothIndoorNavigatorActivity extends MapActivity {
         double lat = Double.parseDouble(coordinates[0]);
         double lng = Double.parseDouble(coordinates[1]);
         
-        point = new GeoPoint(
+        p = new GeoPoint(
                 (int) (lat * 1E6), 
                 (int) (lng * 1E6));
      
-        mapController.animateTo(point);
+        mapController.animateTo(p);
         mapController.setZoom(17);
         
         mapView.invalidate();
@@ -158,12 +159,12 @@ public class MaynoothIndoorNavigatorActivity extends MapActivity {
 	        double lat = Double.parseDouble(coordinates[0]);
 	        double lng = Double.parseDouble(coordinates[1]);
 	        
-	        point = new GeoPoint(
+	        p = new GeoPoint(
 	                (int) (lat * 1E6), 
 	                (int) (lng * 1E6));
 	     
-	        mapController.animateTo(point);
-	        mapController.setZoom(22);
+	        mapController.animateTo(p);
+	        mapController.setZoom(17);
 	      
 	        GeoPoint locationPoint = new GeoPoint((int) (Double.parseDouble(coordinates[0])*1E6),
 	        								 (int) (Double.parseDouble(coordinates[1])*1E6));

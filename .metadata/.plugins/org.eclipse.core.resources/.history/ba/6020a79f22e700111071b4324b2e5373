@@ -163,7 +163,7 @@ public class MaynoothIndoorNavigatorActivity extends MapActivity {
 	                (int) (lng * 1E6));
 	     
 	        mapController.animateTo(point);
-	        mapController.setZoom(22);
+	        mapController.setZoom(25);
 	      
 	        GeoPoint locationPoint = new GeoPoint((int) (Double.parseDouble(coordinates[0])*1E6),
 	        								 (int) (Double.parseDouble(coordinates[1])*1E6));
