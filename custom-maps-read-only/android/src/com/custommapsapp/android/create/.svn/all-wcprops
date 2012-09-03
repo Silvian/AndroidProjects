@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14/trunk/android/src/com/custommapsapp/android/create
+END
+MapImageOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8/trunk/android/src/com/custommapsapp/android/create/MapImageOverlay.java
+END
+BitmapPointActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10/trunk/android/src/com/custommapsapp/android/create/BitmapPointActivity.java
+END
+MapEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12/trunk/android/src/com/custommapsapp/android/create/MapEditor.java
+END
+WarpedImageOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/android/src/com/custommapsapp/android/create/WarpedImageOverlay.java
+END
+AnnotationLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9/trunk/android/src/com/custommapsapp/android/create/AnnotationLayer.java
+END
+TiePointActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/android/src/com/custommapsapp/android/create/TiePointActivity.java
+END
+ImageDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10/trunk/android/src/com/custommapsapp/android/create/ImageDisplay.java
+END
+TiePoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8/trunk/android/src/com/custommapsapp/android/create/TiePoint.java
+END
+TiePointAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/android/src/com/custommapsapp/android/create/TiePointAdapter.java
+END
+PreviewMapActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/android/src/com/custommapsapp/android/create/PreviewMapActivity.java
+END
+SelectImageFileActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14/trunk/android/src/com/custommapsapp/android/create/SelectImageFileActivity.java
+END

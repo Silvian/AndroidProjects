@@ -25,9 +25,9 @@
 <fullyQualifiedTypeName name="android.content.SharedPreferences"/>
 <fullyQualifiedTypeName name="android.content.Context"/>
 <fullyQualifiedTypeName name="android.pack.SettingsController"/>
-<fullyQualifiedTypeName name="android.pack.R.string"/>
 <fullyQualifiedTypeName name="android.pack.R.id"/>
 <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
 <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
 <fullyQualifiedTypeName name="android.pack.R.drawable"/>
+<fullyQualifiedTypeName name="android.pack.R.string"/>
 </qualifiedTypeNameHistroy>

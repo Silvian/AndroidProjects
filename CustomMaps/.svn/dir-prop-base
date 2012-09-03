@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 76
+bin
+gen
+original_resources
+.p4ignore
+BayAreaGeoPoints.kml
+COPYING
+Notes.txt
+
+END

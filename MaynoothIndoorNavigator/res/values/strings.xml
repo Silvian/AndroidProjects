@@ -8,6 +8,6 @@
     <string name= "compass_mode">Compass Mode</string>
     <string name= "settings_menu">Settings</string>
     <string name= "scanner_menu">Scanner</string>
-    <string name= "stop_menu">Stop Location Services</string>
+    <string name= "indoorview_menu">Indoor View</string>
 
 </resources>

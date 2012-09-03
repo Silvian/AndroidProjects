@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10/trunk/android/res/layout
+END
+detailsdisplay.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/trunk/android/res/layout/detailsdisplay.xml
+END
+selectmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5/trunk/android/res/layout/selectmap.xml
+END
+imagefilelist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5/trunk/android/res/layout/imagefilelist.xml
+END
+tiepoints.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8/trunk/android/res/layout/tiepoints.xml
+END
+selectfile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5/trunk/android/res/layout/selectfile.xml
+END
+kmzdownloader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5/trunk/android/res/layout/kmzdownloader.xml
+END
+safetywarning.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5/trunk/android/res/layout/safetywarning.xml
+END
+listheader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5/trunk/android/res/layout/listheader.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10/trunk/android/res/layout/main.xml
+END
+mapeditor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5/trunk/android/res/layout/mapeditor.xml
+END
+bitmappoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9/trunk/android/res/layout/bitmappoint.xml
+END
+aboutdialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5/trunk/android/res/layout/aboutdialog.xml
+END
+listrow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5/trunk/android/res/layout/listrow.xml
+END
+createpreview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5/trunk/android/res/layout/createpreview.xml
+END
+helpdialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5/trunk/android/res/layout/helpdialog.xml
+END
+tiepointitem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/trunk/android/res/layout/tiepointitem.xml
+END

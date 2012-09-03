@@ -49,6 +49,7 @@ public class MaynoothIndoorNavigatorActivity extends MapActivity {
     private ScanController scanController = new ScanController();
     private static final int SETTINGS_ID = Menu.FIRST;
     private static final int SCANNER_ID = Menu.FIRST + 1;
+    private static final int INDOORVIEW_ID = Menu.FIRST + 2;
     
 	
     /** Called when the activity is first created. */
@@ -211,6 +212,7 @@ public class MaynoothIndoorNavigatorActivity extends MapActivity {
         super.onCreateOptionsMenu(menu);
         menu.add(0, SETTINGS_ID, 0, R.string.settings_menu);
         menu.add(0, SCANNER_ID, 1, R.string.scanner_menu);
+        menu.add(0, INDOORVIEW_ID, 2, R.string.indoorview_menu);
         return true;
     }
 	
@@ -231,6 +233,14 @@ public class MaynoothIndoorNavigatorActivity extends MapActivity {
 				startActivityForResult(i, 0);
 				return true;
 			}
+		
+        case INDOORVIEW_ID: //Creates the Custom Maps intent and starts the Indoor Map view
+        	{
+        		Intent j = new Intent("com.custommapsapp.android.MapUpMapDisplay");
+        		j.putExtra("MAP_NAME", "MAP_NAME_MODE");
+        		startActivityForResult(j, 0);
+        		return true;
+        	}
 			
 		}
 		
