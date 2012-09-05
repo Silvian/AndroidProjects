@@ -236,9 +236,10 @@ public class MaynoothIndoorNavigatorActivity extends MapActivity {
 		
         case INDOORVIEW_ID: //Creates the Custom Maps intent and starts the Indoor Map view
         	{
-        		Intent j = new Intent("com.custommapsapp.android.MapUpMapDisplay");
-        		j.putExtra("MAP_NAME", "MAP_NAME_MODE");
-        		startActivityForResult(j, 0);
+        		Intent i = new Intent("com.custommapsapp.android.MapUpMapDisplay");
+        		//i.putExtra("MAP_NAME", "MAP_NAME_MODE");
+        		//startActivityForResult(i, 0);
+        		startActivity(i);
         		return true;
         	}
 			
