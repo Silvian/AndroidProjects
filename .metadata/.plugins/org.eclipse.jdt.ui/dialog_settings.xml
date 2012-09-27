@@ -3,8 +3,8 @@
 	<item value="2" key="TypeHierarchyViewPart.hierarchyview"/>
 	<item value="filter_imports;" key="filters_last_used"/>
 	<item value="/home/silvian/JavaProjects/AndroidProjects/zxing-read-only/core" key="org.eclipse.jdt.ui.lastextjar"/>
-	<item value="false" key="TypeHierarchyViewPart.qualifiednames"/>
 	<item value="3" key="TypeHierarchyViewPart.orientation"/>
+	<item value="false" key="TypeHierarchyViewPart.qualifiednames"/>
 	<item value="false" key="TypeHierarchyViewPart.linkeditors"/>
 	<section name="OptionalMessageDialog.hide.">
 		<item value="false" key="RunnableJar.export.ipwarning"/>
@@ -20,6 +20,9 @@
 	<section name="completion_proposal_size">
 	</section>
 	<section name="JavaElementSearchActions">
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item value="2" key="pageIndex"/>
 	</section>
 	<section name="JarPackageWizard">
 		<item value="false" key="JarPackageWizardPage.INCLUDE_DIRECTORY_ENTRIES"/>
@@ -43,9 +46,6 @@
 		<list key="JarPackageWizardPage.DESTINATION_NAMES_ID">
 			<item value="/home/silvian/JavaProjects/AndroidProjects/QRCodeGenerator.jar"/>
 		</list>
-	</section>
-	<section name="BuildPathsPropertyPage">
-		<item value="2" key="pageIndex"/>
 	</section>
 	<section name="FatJarPackageWizard">
 		<item value="/home/silvian/JavaProjects/AndroidProjects/QRCodeGenerator.jar" key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION"/>
@@ -85,58 +85,58 @@
 		<item value="/home/silvian/JavaProjects/AndroidProjects/LocationDemo/javadoc.xml" key="antpath"/>
 		<item value="true" key="fromStandard"/>
 		<section name="projects">
-			<section name="MyFirstApp">
-				<item value="/home/silvian/JavaProjects/AndroidProjects/MyFirstApp/doc" key="destdir"/>
+			<section name="NotePad">
+				<item value="/home/silvian/JavaProjects/AndroidProjects/NotePad/doc" key="destdir"/>
+				<item value="/home/silvian/JavaProjects/AndroidProjects/NotePad/javadoc.xml" key="antpath"/>
 				<item value="" key="href"/>
-				<item value="/home/silvian/JavaProjects/AndroidProjects/MyFirstApp/javadoc.xml" key="antpath"/>
 			</section>
 			<section name="Notes">
 				<item value="/home/silvian/android-sdk-linux_x86/samples/android-10/BluetoothChat/doc" key="destdir"/>
-				<item value="" key="href"/>
 				<item value="/home/silvian/android-sdk-linux_x86/samples/android-10/BluetoothChat/javadoc.xml" key="antpath"/>
-			</section>
-			<section name="NotePad">
-				<item value="/home/silvian/JavaProjects/AndroidProjects/NotePad/doc" key="destdir"/>
 				<item value="" key="href"/>
-				<item value="/home/silvian/JavaProjects/AndroidProjects/NotePad/javadoc.xml" key="antpath"/>
 			</section>
-			<section name="Notepadv3">
-				<item value="/home/silvian/JavaProjects/AndroidProjects/NotepadCodeLab/Notepadv3Solution/doc" key="destdir"/>
+			<section name="MyFirstApp">
+				<item value="/home/silvian/JavaProjects/AndroidProjects/MyFirstApp/doc" key="destdir"/>
+				<item value="/home/silvian/JavaProjects/AndroidProjects/MyFirstApp/javadoc.xml" key="antpath"/>
 				<item value="" key="href"/>
-				<item value="/home/silvian/JavaProjects/AndroidProjects/NotepadCodeLab/Notepadv3Solution/javadoc.xml" key="antpath"/>
 			</section>
 			<section name="LocationDemo">
 				<item value="/home/silvian/JavaProjects/AndroidProjects/LocationDemo/doc" key="destdir"/>
-				<item value="" key="href"/>
 				<item value="/home/silvian/JavaProjects/AndroidProjects/LocationDemo/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Notepadv3">
+				<item value="/home/silvian/JavaProjects/AndroidProjects/NotepadCodeLab/Notepadv3Solution/doc" key="destdir"/>
+				<item value="/home/silvian/JavaProjects/AndroidProjects/NotepadCodeLab/Notepadv3Solution/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
 			</section>
 			<section name="Snake">
 				<item value="/home/silvian/android-sdk-linux_x86/samples/android-10/Snake/doc" key="destdir"/>
-				<item value="" key="href"/>
 				<item value="/home/silvian/android-sdk-linux_x86/samples/android-10/Snake/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
 			</section>
 			<section name="MyNotes">
 				<item value="/home/silvian/JavaProjects/AndroidProjects/MyNotes/doc" key="destdir"/>
-				<item value="" key="href"/>
 				<item value="/home/silvian/JavaProjects/AndroidProjects/MyNotes/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
 			</section>
 			<section name="FlashLight">
 				<item value="/home/silvian/JavaProjects/AndroidProjects/FlashLight/doc" key="destdir"/>
-				<item value="" key="href"/>
 				<item value="/home/silvian/JavaProjects/AndroidProjects/FlashLight/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
 			</section>
 			<section name="MapsDemo">
 				<item value="/home/silvian/android-sdk-linux_x86/add-ons/addon_google_apis_google_inc_10/samples/MapsDemo/doc" key="destdir"/>
-				<item value="" key="href"/>
 				<item value="/home/silvian/android-sdk-linux_x86/add-ons/addon_google_apis_google_inc_10/samples/MapsDemo/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
 			</section>
 		</section>
 	</section>
 	<section name="JavadocWizardDialog">
 		<item value="708" key="DIALOG_WIDTH"/>
 		<item value="0" key="DIALOG_Y_ORIGIN"/>
-		<item value="485" key="DIALOG_X_ORIGIN"/>
 		<item value="712" key="DIALOG_HEIGHT"/>
+		<item value="485" key="DIALOG_X_ORIGIN"/>
 		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
 	</section>
 </section>

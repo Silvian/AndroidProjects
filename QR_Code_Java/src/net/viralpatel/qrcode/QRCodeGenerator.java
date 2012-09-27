@@ -69,7 +69,7 @@ public class QRCodeGenerator {
 		frame.getContentPane().add(lblLocation);
 		
 		textFieldLocation = new JTextField();
-		textFieldLocation.setText("/home/silvian/JavaProjects/AndroidProjects/QR_Code.PNG");
+		textFieldLocation.setText("");
 		textFieldLocation.setBounds(113, 133, 264, 27);
 		frame.getContentPane().add(textFieldLocation);
 		textFieldLocation.setColumns(10);

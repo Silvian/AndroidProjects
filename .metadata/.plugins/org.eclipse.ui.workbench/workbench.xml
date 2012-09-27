@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="31" version="2.0">
+<workbench progressCount="46" version="2.0">
 <workbenchAdvisor/>
-<window height="874" width="1266" x="162" y="24">
+<window height="874" width="1254" x="163" y="24">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -27,14 +27,14 @@
 <coolItem id="org.eclipse.ptp.gem.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.ptp.pldt.common.toolbar1" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="132" y="30"/>
-<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="152" y="30"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="68" y="30"/>
 <coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="pdfviewer.toolbars.pdfToolbar" itemType="typeToolBarContribution" x="140" y="30"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="68" y="30"/>
+<coolItem id="pdfviewer.toolbars.pdfToolbar" itemType="typeToolBarContribution" x="40" y="30"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="184" y="30"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.wb.core.guiEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wb.core.guiEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.ui.browser.editor" itemType="typeToolBarContribution" x="-1" y="-1"/>
@@ -59,6 +59,11 @@
 <part id="4"/>
 <part id="9"/>
 <part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
 </presentation>
 </folder>
 </info>
@@ -91,9 +96,9 @@
 <editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="strings.xml" partName="strings.xml" path="/home/silvian/JavaProjects/AndroidProjects/MaynoothIndoorNavigator/res/values/strings.xml" title="strings.xml" tooltip="MaynoothIndoorNavigator/res/values/strings.xml" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MaynoothIndoorNavigator/res/values/strings.xml"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MaynoothIndoorNavigatorActivity.java" partName="MaynoothIndoorNavigatorActivity.java" path="/home/silvian/JavaProjects/AndroidProjects/MaynoothIndoorNavigator/src/android/pack/MaynoothIndoorNavigatorActivity.java" title="MaynoothIndoorNavigatorActivity.java" tooltip="MaynoothIndoorNavigator/src/android/pack/MaynoothIndoorNavigatorActivity.java" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MaynoothIndoorNavigatorActivity.java" partName="MaynoothIndoorNavigatorActivity.java" path="/home/silvian/JavaProjects/AndroidProjects/MaynoothIndoorNavigator/src/android/pack/MaynoothIndoorNavigatorActivity.java" title="MaynoothIndoorNavigatorActivity.java" tooltip="MaynoothIndoorNavigator/src/android/pack/MaynoothIndoorNavigatorActivity.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MaynoothIndoorNavigator/src/android/pack/MaynoothIndoorNavigatorActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="8243" selectionTopPixel="3201"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="8362" selectionTopPixel="3200"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MapUpMapDisplay.java" partName="MapUpMapDisplay.java" path="/home/silvian/JavaProjects/AndroidProjects/CustomMaps/src/com/custommapsapp/android/MapUpMapDisplay.java" title="MapUpMapDisplay.java" tooltip="CustomMaps/src/com/custommapsapp/android/MapUpMapDisplay.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CustomMaps/src/com/custommapsapp/android/MapUpMapDisplay.java"/>
@@ -101,6 +106,24 @@
 </editor>
 <editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="strings.xml" partName="strings.xml" path="/home/silvian/JavaProjects/AndroidProjects/MaynoothIndoorNavigator/res/values/strings.xml" title="strings.xml" tooltip="MaynoothIndoorNavigator/res/values/strings.xml" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MaynoothIndoorNavigator/res/values/strings.xml"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="CustomMaps Manifest" path="/home/silvian/JavaProjects/AndroidProjects/CustomMaps/AndroidManifest.xml" title="CustomMaps Manifest" tooltip="CustomMaps/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CustomMaps/AndroidManifest.xml"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="ZXing Manifest" path="/home/silvian/JavaProjects/AndroidProjects/ZXing/AndroidManifest.xml" title="ZXing Manifest" tooltip="ZXing/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ZXing/AndroidManifest.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CaptureActivity.java" partName="CaptureActivity.java" path="/home/silvian/JavaProjects/AndroidProjects/ZXing/src/com/google/zxing/client/android/CaptureActivity.java" title="CaptureActivity.java" tooltip="ZXing/src/com/google/zxing/client/android/CaptureActivity.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ZXing/src/com/google/zxing/client/android/CaptureActivity.java"/>
+<editorState selectionHorizontalPixel="1" selectionLength="12" selectionOffset="27553" selectionTopPixel="134"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CustomMaps.java" partName="CustomMaps.java" path="/home/silvian/JavaProjects/AndroidProjects/CustomMaps/src/com/custommapsapp/android/CustomMaps.java" title="CustomMaps.java" tooltip="CustomMaps/src/com/custommapsapp/android/CustomMaps.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CustomMaps/src/com/custommapsapp/android/CustomMaps.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="25" selectionOffset="2053" selectionTopPixel="134"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.wb.core.guiEditor" name="QRCodeGenerator.java" partName="QRCodeGenerator.java" path="/home/silvian/JavaProjects/AndroidProjects/QR_Code_Java/src/net/viralpatel/qrcode/QRCodeGenerator.java" title="QRCodeGenerator.java" tooltip="QR_Code_Java/src/net/viralpatel/qrcode/QRCodeGenerator.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/QR_Code_Java/src/net/viralpatel/qrcode/QRCodeGenerator.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2179" selectionTopPixel="677"/>
 </editor>
 </editors>
 <views>
@@ -191,7 +214,7 @@
 </view>
 <view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
 </views>
-<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.wb.core.guiEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor descriptor="org.eclipse.jdt.ui.JavaPerspective" id="&lt;Java&gt;" label="&lt;Java&gt;"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -778,147 +801,98 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" path="/QR_Code_Java/src/net/viralpatel/qrcode/QRCodeGenerator.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/QR_Code_Java/src/net/viralpatel/qrcode/QRCodeJava.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MaynoothIndoorNavigator/src/android/pack/MaynoothIndoorNavigatorActivity.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" path="/CustomMaps/AndroidManifest.xml"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" path="/MaynoothIndoorNavigator/AndroidManifest.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MaynoothIndoorNavigator/src/android/pack/SettingsController.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/MaynoothIndoorNavigator/res/values/strings.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/MaynoothIndoorNavigator/res/layout/settings.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MaynoothIndoorNavigator/src/android/pack/MaynoothIndoorNavigatorActivity.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MaynoothIndoorNavigator/src/android/pack/MaynoothIndoorNavigatorActivity.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" path="/ZXing/AndroidManifest.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ZXing/src/com/google/zxing/client/android/CaptureActivityHandler.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ZXing/src/com/google/zxing/client/android/CaptureActivity.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CustomMaps/src/com/custommapsapp/android/CustomMaps.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" path="/QR_Code_Java/src/net/viralpatel/qrcode/QRCodeGenerator.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/QR_Code_Java/src/net/viralpatel/qrcode/QRCodeJava.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MaynoothIndoorNavigator/src/android/pack/SettingsController.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CustomMaps/src/com/custommapsapp/android/storage/EditPreferences.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CustomMaps/src/com/custommapsapp/android/MapDisplay.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CustomMaps/src/com/custommapsapp/android/MapUpMapDisplay.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/MaynoothIndoorNavigator/res/values/strings.xml"/>
 </editors>
-<item historyLabel="QRCodeJava.java" index="1">
-<position info="not_deleted" x="521" y="0"/>
-</item>
-<item historyLabel="QRCodeGenerator.java" index="0">
-<position info="not_deleted" x="2524" y="0"/>
-</item>
-<item historyLabel="QRCodeJava.java" index="1">
-<position info="not_deleted" x="521" y="0"/>
-</item>
-<item historyLabel="QRCodeGenerator.java" index="0">
-<position info="not_deleted" x="3128" y="0"/>
-</item>
-<item historyLabel="QRCodeJava.java" index="1">
-<position info="not_deleted" x="521" y="0"/>
+<item historyLabel="CustomMaps Manifest" index="1"/>
+<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
+<item historyLabel="CustomMaps Manifest" index="1"/>
+<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
+<item historyLabel="CustomMaps Manifest" index="1"/>
+<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
+<position info="not_deleted" x="8139" y="0"/>
 </item>
 <item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
-<item historyLabel="SettingsController.java" index="3">
-<position info="not_deleted" x="947" y="0"/>
-</item>
-<item historyLabel="strings.xml" index="4"/>
-<item historyLabel="settings.xml" index="5"/>
-<item historyLabel="strings.xml" index="4"/>
-<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
-<item historyLabel="SettingsController.java" index="3">
-<position info="not_deleted" x="947" y="0"/>
-</item>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="6">
-<position info="not_deleted" x="4556" y="0"/>
+<item historyLabel="CustomMaps Manifest" index="1"/>
+<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
+<position info="not_deleted" x="8139" y="0"/>
 </item>
 <item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
-<item historyLabel="settings.xml" index="5"/>
-<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
-<item historyLabel="SettingsController.java" index="3">
-<position info="not_deleted" x="947" y="0"/>
+<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
+<position info="not_deleted" x="8139" y="0"/>
 </item>
-<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
-<item historyLabel="SettingsController.java" index="3">
-<position info="not_deleted" x="947" y="0"/>
-</item>
-<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="7">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="7">
-<position info="not_deleted" x="5395" y="0"/>
-</item>
-<item historyLabel="QRCodeGenerator.java" index="8">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="QRCodeJava.java" index="9">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="QRCodeGenerator.java" index="8">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="7">
-<position info="not_deleted" x="5395" y="0"/>
-</item>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="7">
-<position info="not_deleted" x="7006" y="0"/>
-</item>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="7">
-<position info="not_deleted" x="5905" y="0"/>
-</item>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="7">
-<position info="not_deleted" x="5903" y="0"/>
-</item>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="7">
-<position info="not_deleted" x="3405" y="0"/>
-</item>
-<item historyLabel="SettingsController.java" index="10">
-<position info="not_deleted" x="947" y="0"/>
-</item>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="7">
-<position info="not_deleted" x="5854" y="0"/>
-</item>
-<item historyLabel="EditPreferences.java" index="11">
+<item historyLabel="CustomMaps Manifest" index="1"/>
+<item historyLabel="ZXing Manifest" index="3"/>
+<item historyLabel="CustomMaps Manifest" index="1"/>
+<item historyLabel="ZXing Manifest" index="3"/>
+<item historyLabel="CaptureActivityHandler.java" index="4">
 <position info="not_deleted" x="3" y="0"/>
 </item>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="7">
-<position info="not_deleted" x="5555" y="0"/>
+<item historyLabel="ZXing Manifest" index="3"/>
+<item historyLabel="CaptureActivity.java" index="5">
+<position info="not_deleted" x="27553" y="12"/>
 </item>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="7">
-<position info="not_deleted" x="1727" y="0"/>
+<item historyLabel="CustomMaps.java" index="6">
+<position info="not_deleted" x="3" y="0"/>
 </item>
-<item historyLabel="MapDisplay.java" index="12">
-<position info="not_deleted" x="4" y="0"/>
+<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
+<item historyLabel="CustomMaps.java" index="6">
+<position info="not_deleted" x="2053" y="25"/>
 </item>
-<item historyLabel="MapUpMapDisplay.java" index="13">
-<position info="not_deleted" x="5288" y="0"/>
+<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
+<item historyLabel="CaptureActivity.java" index="5">
+<position info="not_deleted" x="27553" y="12"/>
 </item>
-<item historyLabel="MapDisplay.java" index="12">
-<position info="not_deleted" x="4" y="0"/>
+<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
+<position info="not_deleted" x="8139" y="0"/>
 </item>
-<item historyLabel="MapUpMapDisplay.java" index="13">
-<position info="not_deleted" x="5288" y="0"/>
+<item historyLabel="CustomMaps Manifest" index="1"/>
+<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
+<position info="not_deleted" x="8139" y="0"/>
 </item>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="7">
-<position info="not_deleted" x="7311" y="0"/>
+<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
+<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
+<position info="not_deleted" x="8139" y="0"/>
 </item>
-<item historyLabel="strings.xml" index="14"/>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="7">
-<position info="not_deleted" x="7311" y="0"/>
+<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
+<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
+<position info="not_deleted" x="8139" y="0"/>
 </item>
-<item historyLabel="MapUpMapDisplay.java" index="13">
-<position info="not_deleted" x="5288" y="0"/>
+<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
+<item historyLabel="ZXing Manifest" index="3"/>
+<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
+<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
+<position info="not_deleted" x="8139" y="0"/>
 </item>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="7">
-<position info="not_deleted" x="7311" y="0"/>
+<item historyLabel="ZXing Manifest" index="3"/>
+<item historyLabel="CustomMaps Manifest" index="1"/>
+<item historyLabel="ZXing Manifest" index="3"/>
+<item historyLabel="CustomMaps Manifest" index="1"/>
+<item historyLabel="ZXing Manifest" index="3"/>
+<item historyLabel="CustomMaps Manifest" index="1"/>
+<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
+<position info="not_deleted" x="8109" y="30"/>
 </item>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="7">
-<position info="not_deleted" x="8267" y="0"/>
+<item historyLabel="CustomMaps Manifest" index="1"/>
+<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
+<position info="not_deleted" x="8109" y="30"/>
 </item>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="7">
-<position info="not_deleted" x="8150" y="0"/>
+<item historyLabel="CustomMaps Manifest" index="1"/>
+<item historyLabel="ZXing Manifest" index="3"/>
+<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
+<position info="not_deleted" x="8362" y="0"/>
 </item>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="7">
-<position info="not_deleted" x="8202" y="0"/>
-</item>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="7">
-<position info="not_deleted" x="8185" y="0"/>
-</item>
-<item active="true" historyLabel="MaynoothIndoorNavigatorActivity.java" index="7">
-<position info="not_deleted" x="8188" y="0"/>
+<item historyLabel="CustomMaps Manifest" index="1"/>
+<item historyLabel="ZXing Manifest" index="3"/>
+<item historyLabel="CustomMaps Manifest" index="1"/>
+<item active="true" historyLabel="QRCodeGenerator.java" index="7">
+<position info="not_deleted" x="0" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -938,6 +912,24 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" name="QRCodeGenerator.java" tooltip="QR_Code_Java/src/net/viralpatel/qrcode/QRCodeGenerator.java">
+<persistable path="/QR_Code_Java/src/net/viralpatel/qrcode/QRCodeGenerator.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CustomMaps.java" tooltip="CustomMaps/src/com/custommapsapp/android/CustomMaps.java">
+<persistable path="/CustomMaps/src/com/custommapsapp/android/CustomMaps.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CaptureActivity.java" tooltip="ZXing/src/com/google/zxing/client/android/CaptureActivity.java">
+<persistable path="/ZXing/src/com/google/zxing/client/android/CaptureActivity.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CaptureActivityHandler.java" tooltip="ZXing/src/com/google/zxing/client/android/CaptureActivityHandler.java">
+<persistable path="/ZXing/src/com/google/zxing/client/android/CaptureActivityHandler.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" tooltip="ZXing/AndroidManifest.xml">
+<persistable path="/ZXing/AndroidManifest.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" tooltip="CustomMaps/AndroidManifest.xml">
+<persistable path="/CustomMaps/AndroidManifest.xml"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="strings.xml" tooltip="MaynoothIndoorNavigator/res/values/strings.xml">
 <persistable path="/MaynoothIndoorNavigator/res/values/strings.xml"/>
 </file>
@@ -959,29 +951,11 @@
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="QRCodeJava.java" tooltip="QR_Code_Java/src/net/viralpatel/qrcode/QRCodeJava.java">
 <persistable path="/QR_Code_Java/src/net/viralpatel/qrcode/QRCodeJava.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" name="QRCodeGenerator.java" tooltip="QR_Code_Java/src/net/viralpatel/qrcode/QRCodeGenerator.java">
-<persistable path="/QR_Code_Java/src/net/viralpatel/qrcode/QRCodeGenerator.java"/>
-</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MaynoothIndoorNavigatorActivity.java" tooltip="MaynoothIndoorNavigator/src/android/pack/MaynoothIndoorNavigatorActivity.java">
 <persistable path="/MaynoothIndoorNavigator/src/android/pack/MaynoothIndoorNavigatorActivity.java"/>
 </file>
 <file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Overlay.class" tooltip="com.google.android.maps.Overlay">
 <persistable org.eclipse.jdt.ui.ClassFileIdentifier="=MaynoothIndoorNavigator/\/home\/silvian\/android-sdk-linux\/add-ons\/addon-google_apis-google-15\/libs\/maps.jar&lt;com.google.android.maps(Overlay.class"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="LocationListener.class" tooltip="android.location.LocationListener">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=MaynoothIndoorNavigator/\/home\/silvian\/android-sdk-linux\/platforms\/android-15\/android.jar&lt;android.location(LocationListener.class"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="QRCodeServlet.java" tooltip="QR_Code_Servlet/src/net/viralpatel/qrcodes/QRCodeServlet.java">
-<persistable path="/QR_Code_Servlet/src/net/viralpatel/qrcodes/QRCodeServlet.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DatabaseDisplay.java" tooltip="LocationDemo/src/android/pack/DatabaseDisplay.java">
-<persistable path="/LocationDemo/src/android/pack/DatabaseDisplay.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SettingsController.java" tooltip="MaynoothIndoorNavigator/src/android/pack/SettingsController.java">
-<persistable path="/MaynoothIndoorNavigator/src/android/pack/SettingsController.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CaptureActivityHandler.java" tooltip="ZXing/src/com/google/zxing/client/android/CaptureActivityHandler.java">
-<persistable path="/ZXing/src/com/google/zxing/client/android/CaptureActivityHandler.java"/>
 </file>
 </mruList>
 </workbench>
