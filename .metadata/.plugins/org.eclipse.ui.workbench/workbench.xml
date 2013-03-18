@@ -1,152 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="46" version="2.0">
+<workbench progressCount="12" version="2.0">
 <workbenchAdvisor/>
-<window height="874" width="1254" x="163" y="24">
+<window height="815" width="1327" x="52" y="22">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
-<itemSize x="160"/>
+<itemSize x="250"/>
 </perspectiveBar>
 <coolbarLayout>
 <coolItem id="group.file" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="230" y="30"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="106" y="22"/>
 <coolItem id="additions" itemType="typeGroupMarker"/>
-<coolItem id="adt.actionSet.avdManager" itemType="typeToolBarContribution" x="68" y="30"/>
-<coolItem id="adt.actionSet.lint" itemType="typeToolBarContribution" x="48" y="30"/>
-<coolItem id="adt.actionSet.wizards" itemType="typeToolBarContribution" x="96" y="30"/>
-<coolItem id="com.android.ide.eclipse.editors.CommonXmlEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="com.android.ide.eclipse.editors.layout.LayoutEditor" itemType="typePlaceholder" x="-1" y="-1"/>
-<coolItem id="com.yattasolutions.diagrams.layout.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="com.yattasolutions.umllab.intro.IntroEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.cdt.ui.CElementCreationActionSet" itemType="typeToolBarContribution" x="156" y="30"/>
-<coolItem id="org.eclipse.cdt.ui.buildConfigActionSet" itemType="typeToolBarContribution" x="82" y="30"/>
-<coolItem id="org.eclipse.cdt.ui.editor.CEditor" itemType="typePlaceholder" x="-1" y="-1"/>
-<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="120" y="30"/>
-<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="76" y="30"/>
-<coolItem id="org.eclipse.mylyn.java.actionSet.browsing" itemType="typeToolBarContribution" x="40" y="30"/>
-<coolItem id="org.eclipse.ptp.gem.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.ptp.pldt.common.toolbar1" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="132" y="30"/>
-<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="68" y="30"/>
+<coolItem id="adt.actionSet.avdManager" itemType="typeToolBarContribution" x="54" y="22"/>
+<coolItem id="adt.actionSet.lint" itemType="typeToolBarContribution" x="40" y="22"/>
+<coolItem id="adt.actionSet.wizards" itemType="typeToolBarContribution" x="32" y="22"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="100" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="62" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="62" y="22"/>
 <coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="68" y="30"/>
-<coolItem id="pdfviewer.toolbars.pdfToolbar" itemType="typeToolBarContribution" x="40" y="30"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.debug.ui.launch.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.debug.ui.main.toolbar" itemType="typeToolBarContribution" x="32" y="22"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="184" y="30"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="152" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.wb.core.guiEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
-<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.ui.browser.editor" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.ui.internal.ide.dialogs.WelcomeEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
 </coolbarLayout>
-<page aggregateWorkingSetId="Aggregate for window 1301440278060" focus="true" label="Workspace - Java">
+<page aggregateWorkingSetId="Aggregate for window 1363543530916" focus="true" label="Workspace - Java">
 <editors>
 <editorArea activeWorkbook="DefaultEditorWorkbook">
 <info part="DefaultEditorWorkbook">
 <folder appearance="1" expanded="2">
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-<part id="1"/>
-<part id="2"/>
-<part id="3"/>
-<part id="5"/>
-<part id="8"/>
-<part id="6"/>
-<part id="7"/>
-<part id="4"/>
-<part id="9"/>
-<part id="10"/>
-<part id="11"/>
-<part id="12"/>
-<part id="13"/>
-<part id="14"/>
-<part id="15"/>
-</presentation>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyItemizedOverlay.java" partName="MyItemizedOverlay.java" path="/home/silvian/JavaProjects/AndroidProjects/MaynoothIndoorNavigator/src/android/pack/MyItemizedOverlay.java" title="MyItemizedOverlay.java" tooltip="MaynoothIndoorNavigator/src/android/pack/MyItemizedOverlay.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MaynoothIndoorNavigator/src/android/pack/MyItemizedOverlay.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyOverlays.java" partName="MyOverlays.java" path="/home/silvian/JavaProjects/AndroidProjects/MaynoothIndoorNavigator/src/android/pack/MyOverlays.java" title="MyOverlays.java" tooltip="MaynoothIndoorNavigator/src/android/pack/MyOverlays.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MaynoothIndoorNavigator/src/android/pack/MyOverlays.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="main.xml" partName="main.xml" path="/home/silvian/JavaProjects/AndroidProjects/MaynoothIndoorNavigator/res/layout/main.xml" title="main.xml" tooltip="MaynoothIndoorNavigator/res/layout/main.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MaynoothIndoorNavigator/res/layout/main.xml"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SettingsActivity.java" partName="SettingsActivity.java" path="/home/silvian/JavaProjects/AndroidProjects/MaynoothIndoorNavigator/src/android/pack/SettingsActivity.java" title="SettingsActivity.java" tooltip="MaynoothIndoorNavigator/src/android/pack/SettingsActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MaynoothIndoorNavigator/src/android/pack/SettingsActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="903" selectionTopPixel="35"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="settings.xml" partName="settings.xml" path="/home/silvian/JavaProjects/AndroidProjects/MaynoothIndoorNavigator/res/layout/settings.xml" title="settings.xml" tooltip="MaynoothIndoorNavigator/res/layout/settings.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MaynoothIndoorNavigator/res/layout/settings.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="MaynoothIndoorNavigator Manifest" path="/home/silvian/JavaProjects/AndroidProjects/MaynoothIndoorNavigator/AndroidManifest.xml" title="MaynoothIndoorNavigator Manifest" tooltip="MaynoothIndoorNavigator/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MaynoothIndoorNavigator/AndroidManifest.xml"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SettingsController.java" partName="SettingsController.java" path="/home/silvian/JavaProjects/AndroidProjects/MaynoothIndoorNavigator/src/android/pack/SettingsController.java" title="SettingsController.java" tooltip="MaynoothIndoorNavigator/src/android/pack/SettingsController.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MaynoothIndoorNavigator/src/android/pack/SettingsController.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="947" selectionTopPixel="0"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="strings.xml" partName="strings.xml" path="/home/silvian/JavaProjects/AndroidProjects/MaynoothIndoorNavigator/res/values/strings.xml" title="strings.xml" tooltip="MaynoothIndoorNavigator/res/values/strings.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MaynoothIndoorNavigator/res/values/strings.xml"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MaynoothIndoorNavigatorActivity.java" partName="MaynoothIndoorNavigatorActivity.java" path="/home/silvian/JavaProjects/AndroidProjects/MaynoothIndoorNavigator/src/android/pack/MaynoothIndoorNavigatorActivity.java" title="MaynoothIndoorNavigatorActivity.java" tooltip="MaynoothIndoorNavigator/src/android/pack/MaynoothIndoorNavigatorActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MaynoothIndoorNavigator/src/android/pack/MaynoothIndoorNavigatorActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="8362" selectionTopPixel="3200"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MapUpMapDisplay.java" partName="MapUpMapDisplay.java" path="/home/silvian/JavaProjects/AndroidProjects/CustomMaps/src/com/custommapsapp/android/MapUpMapDisplay.java" title="MapUpMapDisplay.java" tooltip="CustomMaps/src/com/custommapsapp/android/MapUpMapDisplay.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CustomMaps/src/com/custommapsapp/android/MapUpMapDisplay.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5288" selectionTopPixel="2662"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="strings.xml" partName="strings.xml" path="/home/silvian/JavaProjects/AndroidProjects/MaynoothIndoorNavigator/res/values/strings.xml" title="strings.xml" tooltip="MaynoothIndoorNavigator/res/values/strings.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MaynoothIndoorNavigator/res/values/strings.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="CustomMaps Manifest" path="/home/silvian/JavaProjects/AndroidProjects/CustomMaps/AndroidManifest.xml" title="CustomMaps Manifest" tooltip="CustomMaps/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CustomMaps/AndroidManifest.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="ZXing Manifest" path="/home/silvian/JavaProjects/AndroidProjects/ZXing/AndroidManifest.xml" title="ZXing Manifest" tooltip="ZXing/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ZXing/AndroidManifest.xml"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CaptureActivity.java" partName="CaptureActivity.java" path="/home/silvian/JavaProjects/AndroidProjects/ZXing/src/com/google/zxing/client/android/CaptureActivity.java" title="CaptureActivity.java" tooltip="ZXing/src/com/google/zxing/client/android/CaptureActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ZXing/src/com/google/zxing/client/android/CaptureActivity.java"/>
-<editorState selectionHorizontalPixel="1" selectionLength="12" selectionOffset="27553" selectionTopPixel="134"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CustomMaps.java" partName="CustomMaps.java" path="/home/silvian/JavaProjects/AndroidProjects/CustomMaps/src/com/custommapsapp/android/CustomMaps.java" title="CustomMaps.java" tooltip="CustomMaps/src/com/custommapsapp/android/CustomMaps.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CustomMaps/src/com/custommapsapp/android/CustomMaps.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="25" selectionOffset="2053" selectionTopPixel="134"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.wb.core.guiEditor" name="QRCodeGenerator.java" partName="QRCodeGenerator.java" path="/home/silvian/JavaProjects/AndroidProjects/QR_Code_Java/src/net/viralpatel/qrcode/QRCodeGenerator.java" title="QRCodeGenerator.java" tooltip="QR_Code_Java/src/net/viralpatel/qrcode/QRCodeGenerator.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/QR_Code_Java/src/net/viralpatel/qrcode/QRCodeGenerator.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2179" selectionTopPixel="677"/>
-</editor>
 </editors>
 <views>
-<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
-<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
-</view>
-<view id="com.android.ide.eclipse.ddms.views.LogCatView" partName="LogCat">
+<view id="com.android.ide.eclipse.ddms.views.DeviceView" partName="Devices"/>
+<view id="com.android.ide.eclipse.ddms.views.ThreadView" partName="Threads"/>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
 <viewState/>
 </view>
-<view id="org.eclipse.ui.views.PropertySheet" partName="Properties"/>
-<view id="org.eclipse.ui.views.ResourceNavigator" partName="Navigator">
-<viewState LINK_NAVIGATOR_TO_EDITOR="0" sorter="1">
-<filters>&#x0A;<filter element="*.class" isEnabled="true"/>
-<filter element=".*" isEnabled="false"/>
-<filter element="*.pyc" isEnabled="true"/>
-<filter element="*.class" isEnabled="true"/>
-<filter element="*.pyo" isEnabled="true"/>
-</filters>
-</viewState>
-</view>
+<view id="com.android.ide.eclipse.ddms.views.HeapView" partName="Heap"/>
+<view id="com.android.ide.eclipse.ddms.views.LogCatView" partName="LogCat"/>
+<view id="com.android.ide.eclipse.ddms.views.FileExplorerView" partName="File Explorer"/>
+<view id="com.android.ide.eclipse.ddms.views.NetworkStatsView" partName="Network Statistics"/>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="580" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
@@ -154,14 +56,16 @@
 <visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
 </viewState>
 </view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
 <view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
-<viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="Aggregate for window 1301440278060">
+<viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="">
 <customFilters userDefinedPatternsEnabled="false">
 <xmlDefinedFilters>
 <child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
 <child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
 <child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
-<child filterId="org.eclipse.pde.ui.ExternalPluginLibrariesFilter1" isEnabled="true"/>
 <child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
 <child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
 <child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
@@ -177,46 +81,19 @@
 <child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
 <child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
 <child filterId="org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter" isEnabled="true"/>
-<child filterId="org.eclipse.pde.ui.BinaryProjectFilter1" isEnabled="false"/>
 <child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
-<child filterId="org.eclipse.mylyn.java.ui.MembersFilter" isEnabled="false"/>
-<child filterId="org.eclipse.m2e.MavenModuleFilter" isEnabled="false"/>
 </xmlDefinedFilters>
 </customFilters>
 </viewState>
 </view>
-<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
-<viewState/>
-</view>
-<view id="org.eclipse.mylyn.tasks.ui.views.tasks" partName="Task List">
-<viewState linkWithEditor="true" presentation="org.eclipse.mylyn.tasks.ui.categorized">
-<sorter groupBy="CATEGORY_QUERY">
-<sorter>
-<sort0 sortDirection="1" sortKey="PRIORITY"/>
-<sort1 sortDirection="1" sortKey="RANK"/>
-<sort2 sortDirection="1" sortKey="DATE_CREATED"/>
-<sort3 sortDirection="1" sortKey="NONE"/>
-<sort4 sortDirection="1" sortKey="NONE"/>
-<sort5 sortDirection="1" sortKey="NONE"/>
-<sort6 sortDirection="1" sortKey="NONE"/>
-<sort7 sortDirection="1" sortKey="NONE"/>
-</sorter>
-</sorter>
-<filteredTreeFindHistory/>
-</viewState>
-</view>
-<view id="org.eclipse.ui.views.TaskList" partName="Tasks"/>
-<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration">
-<viewState/>
-</view>
-<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
-<viewState/>
-</view>
+<view id="com.android.ide.eclipse.ddms.views.EmulatorControlView" partName="Emulator Control"/>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration"/>
+<view id="com.android.ide.eclipse.ddms.views.AllocTrackerView" partName="Allocation Tracker"/>
 <view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
 </views>
-<perspectives activePart="org.eclipse.wb.core.guiEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
-<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
-<descriptor descriptor="org.eclipse.jdt.ui.JavaPerspective" id="&lt;Java&gt;" label="&lt;Java&gt;"/>
+<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="0" fixed="0" version="0.016">
+<descriptor class="com.android.ide.eclipse.ddms.Perspective" id="com.android.ide.eclipse.ddms.Perspective" label="DDMS"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
 <alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
 <alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
@@ -225,436 +102,73 @@
 <alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
 <alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
 <alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
-<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
-<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
-<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
-<alwaysOnActionSet id="org.eclipse.debug.ui.profileActionSet"/>
-<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
-<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
-<alwaysOnActionSet id="org.eclipse.egit.ui.navigation"/>
-<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
-<alwaysOnActionSet id="org.eclipse.wb.core.ui.actionset"/>
-<alwaysOnActionSet id="adt.actionSet.wizards"/>
-<alwaysOnActionSet id="adt.actionSet.refactorings"/>
-<alwaysOnActionSet id="adt.actionSet.avdManager"/>
-<alwaysOnActionSet id="tudresden.ocl20.pivot.interpreter.ui.actionSet"/>
-<alwaysOnActionSet id="tudresden.ocl20.pivot.modelbus.ui.actionSet"/>
-<alwaysOnActionSet id="tudresden.ocl20.pivot.tools.codegen.declarativ.ocl2sql.ui.actionSet"/>
-<alwaysOnActionSet id="tudresden.ocl20.pivot.tools.codegen.ocl2java.ui.actionSet"/>
-<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
-<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
-<alwaysOnActionSet id="adt.actionSet.lint"/>
-<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
-<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
-<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
-<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
-<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
-<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
-<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
-<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="com.android.ide.eclipse.ddms.views.DeviceView"/>
+<show_view_action id="com.android.ide.eclipse.ddms.views.FileExplorerView"/>
+<show_view_action id="com.android.ide.eclipse.ddms.views.HeapView"/>
+<show_view_action id="com.android.ide.eclipse.ddms.views.AllocTrackerView"/>
+<show_view_action id="com.android.ide.eclipse.ddms.views.LogCatView"/>
+<show_view_action id="com.android.ide.eclipse.ddms.views.ThreadView"/>
+<show_view_action id="com.android.ide.eclipse.ddms.views.NetworkStatsView"/>
 <show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
-<show_view_action id="org.eclipse.ui.views.TaskList"/>
-<show_view_action id="org.eclipse.ui.views.ProgressView"/>
-<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
-<show_view_action id="org.eclipse.ui.texteditor.TemplatesView"/>
-<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
-<show_view_action id="org.eclipse.pde.runtime.LogView"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewJavaWorkingSetWizard"/>
-<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
-<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
-<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
-<new_wizard_action id="com.android.ide.eclipse.adt.project.NewProjectWizard"/>
-<new_wizard_action id="com.android.ide.eclipse.editors.wizards.NewXmlFileWizard"/>
-<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
-<perspective_action id="com.android.ide.eclipse.ddms.Perspective"/>
-<perspective_action id="com.android.ide.eclipse.hierarchyviewer.PixelPerfectPespective"/>
-<perspective_action id="com.android.ide.eclipse.hierarchyviewer.TreeViewPerspective"/>
-<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
-<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
-<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
-<view id="org.eclipse.ui.views.ProblemView"/>
-<view id="org.eclipse.ui.console.ConsoleView"/>
-<view id="org.eclipse.ui.views.ContentOutline"/>
-<view id="org.eclipse.ui.views.ResourceNavigator"/>
-<fastViewBars/>
-<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="left">&#x0A;<folder activePageID="org.eclipse.ui.views.ResourceNavigator" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ResourceNavigator" label="Navigator"/>
-<page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
-<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
-<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
-<page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
-</presentation>
-</folder>
-</info>
-<info folder="true" part="stickyFolderRight" ratio="0.7495049" ratioLeft="757" ratioRight="253" relationship="2" relative="left">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
-<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
-<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
-</folder>
-</info>
-<info part="org.eclipse.ui.editorss" ratio="0.1543258" ratioLeft="198" ratioRight="1085" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.74960876" ratioLeft="479" ratioRight="160" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
-<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
-<page content="org.eclipse.jdt.ui.JavadocView" label="LabelNotFound"/>
-<page content="org.eclipse.jdt.ui.SourceView" label="LabelNotFound"/>
-<page content="com.android.ide.eclipse.ddms.views.LogCatView" label="LabelNotFound"/>
-<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
-<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
-<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
-<page content="org.eclipse.pde.runtime.LogView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
-<part id="1"/>
-</presentation>
-</folder>
-</info>
-<info folder="true" part="right" ratio="0.74934036" ratioLeft="568" ratioRight="190" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
-<page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
-<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
-</presentation>
-</folder>
-</info>
-</mainWindow>
-</layout>
-</perspective>
-<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
-<descriptor descriptor="org.eclipse.cdt.ui.CPerspective" id="&lt;C/C++&gt;" label="&lt;C/C++&gt;"/>
-<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
-<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
-<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
-<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
-<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
-<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
-<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
-<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
-<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
-<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
-<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
-<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.presentation"/>
-<alwaysOnActionSet id="org.eclipse.debug.ui.profileActionSet"/>
-<alwaysOnActionSet id="adt.actionSet.wizards"/>
-<alwaysOnActionSet id="adt.actionSet.refactorings"/>
-<alwaysOnActionSet id="adt.actionSet.avdManager"/>
-<alwaysOnActionSet id="adt.actionSet.lint"/>
-<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
-<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
 <show_view_action id="org.eclipse.ui.views.ContentOutline"/>
-<show_view_action id="org.eclipse.ui.views.ProblemView"/>
-<show_view_action id="org.eclipse.cdt.ui.CView"/>
-<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
 <show_view_action id="org.eclipse.ui.views.PropertySheet"/>
-<show_view_action id="org.eclipse.ui.views.TaskList"/>
-<show_view_action id="org.eclipse.cdt.codan.internal.ui.views.ProblemDetails"/>
-<show_view_action id="org.eclipse.cdt.make.ui.views.MakeView"/>
-<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
-<show_view_action id="org.eclipse.cdt.ui.includeBrowser"/>
-<new_wizard_action id="org.eclipse.cdt.ui.wizards.ConvertToMakeWizard"/>
-<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewMakeFromExisting"/>
-<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewCWizard1"/>
-<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewCWizard2"/>
-<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewSourceFolderCreationWizard"/>
-<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewFolderCreationWizard"/>
-<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewSourceFileCreationWizard"/>
-<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewHeaderFileCreationWizard"/>
-<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewFileCreationWizard"/>
-<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewClassCreationWizard"/>
-<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
-<perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
-<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
-<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
-<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
-<view id="org.eclipse.ui.views.ProblemView"/>
-<view id="org.eclipse.ui.views.TaskList"/>
-<view id="org.eclipse.ui.console.ConsoleView"/>
-<view id="org.eclipse.ui.views.PropertySheet"/>
-<view id="org.eclipse.ui.views.ContentOutline"/>
-<fastViewBars/>
-<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="topLeft">&#x0A;<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
-<page content="org.eclipse.cdt.ui.CView" label="LabelNotFound"/>
-<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
-<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
-</presentation>
-</folder>
-</info>
-<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1194" ratioRight="398" relationship="2" relative="topLeft">&#x0A;<folder activePageID="org.eclipse.ui.internal.introview" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
-<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
-<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
-</presentation>
-</folder>
-</info>
-<info part="org.eclipse.ui.editorss" ratio="0.17592593" ratioLeft="209" ratioRight="979" relationship="2" relative="topLeft"/>
-<info folder="true" part="bottom" ratio="0.75" ratioLeft="561" ratioRight="187" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
-<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
-<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
-<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
-<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
-<part id="1"/>
-<part id="2"/>
-<part id="4"/>
-<part id="3"/>
-</presentation>
-</folder>
-</info>
-<info folder="true" part="topRight" ratio="0.7495812" ratioLeft="895" ratioRight="299" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.cdt.make.ui.views.MakeView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
-</folder>
-</info>
-</mainWindow>
-</layout>
-</perspective>
-<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
-<descriptor class="org.eclipse.jdt.internal.ui.browsing.JavaBrowsingPerspectiveFactory" id="org.eclipse.jdt.ui.JavaBrowsingPerspective" label="Java Browsing"/>
-<alwaysOnActionSet id="org.eclipse.egit.ui.navigation"/>
-<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
-<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
-<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
-<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
-<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
-<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
-<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
-<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
-<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
-<alwaysOnActionSet id="org.eclipse.wb.core.ui.actionset"/>
-<alwaysOnActionSet id="adt.actionSet.wizards"/>
-<alwaysOnActionSet id="adt.actionSet.refactorings"/>
-<alwaysOnActionSet id="adt.actionSet.avdManager"/>
-<alwaysOnActionSet id="tudresden.ocl20.pivot.interpreter.ui.actionSet"/>
-<alwaysOnActionSet id="tudresden.ocl20.pivot.modelbus.ui.actionSet"/>
-<alwaysOnActionSet id="tudresden.ocl20.pivot.tools.codegen.declarativ.ocl2sql.ui.actionSet"/>
-<alwaysOnActionSet id="tudresden.ocl20.pivot.tools.codegen.ocl2java.ui.actionSet"/>
-<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
-<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
-<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
-<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
-<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
-<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
-<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
-<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
-<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
-<alwaysOnActionSet id="org.eclipse.mylyn.java.actionSet.browsing"/>
-<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
-<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
-<show_view_action id="org.eclipse.jdt.ui.ProjectsView"/>
-<show_view_action id="org.eclipse.jdt.ui.PackagesView"/>
-<show_view_action id="org.eclipse.jdt.ui.TypesView"/>
-<show_view_action id="org.eclipse.jdt.ui.MembersView"/>
-<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
-<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
-<show_view_action id="org.eclipse.ui.texteditor.TemplatesView"/>
-<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
-<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
-<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
 <show_view_action id="org.eclipse.ui.views.ProblemView"/>
-<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
-<show_view_action id="org.eclipse.ui.views.TaskList"/>
 <show_view_action id="org.eclipse.ui.views.ProgressView"/>
-<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
-<show_view_action id="org.eclipse.pde.runtime.LogView"/>
-<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
-<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewJavaWorkingSetWizard"/>
-<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
-<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
-<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
-<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<perspective_action id="org.eclipse.ui.resourcePerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
 <perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
-<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.RunToLine"/>
 <hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
-<view id="org.eclipse.jdt.ui.ProjectsView" removed="true"/>
-<view id="org.eclipse.jdt.ui.PackagesView" removed="true"/>
-<view id="org.eclipse.jdt.ui.TypesView" removed="true"/>
-<view id="org.eclipse.jdt.ui.MembersView" removed="true"/>
+<view id="com.android.ide.eclipse.ddms.views.LogCatView"/>
+<view id="com.android.ide.eclipse.ddms.views.DeviceView"/>
+<view id="com.android.ide.eclipse.ddms.views.ThreadView"/>
+<view id="com.android.ide.eclipse.ddms.views.HeapView"/>
+<view id="com.android.ide.eclipse.ddms.views.AllocTrackerView"/>
+<view id="com.android.ide.eclipse.ddms.views.NetworkStatsView"/>
+<view id="com.android.ide.eclipse.ddms.views.FileExplorerView"/>
+<view id="com.android.ide.eclipse.ddms.views.EmulatorControlView"/>
 <fastViewBars/>
-<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.ui.internal.ViewStack@440bf329">&#x0A;<folder activePageID="org.eclipse.jdt.ui.ProjectsView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.jdt.ui.ProjectsView" label="Projects"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
-</presentation>
+<layout>
+<mainWindow>
+<info folder="true" part="devices">
+<folder appearance="2" expanded="2">
+<page content="com.android.ide.eclipse.ddms.views.DeviceView:*" label="LabelNotFound"/>
+<page content="com.android.ide.eclipse.ddms.views.DeviceView" label="Devices"/>
 </folder>
 </info>
-<info folder="true" part="stickyFolderRight" ratio="0.7496112" ratioLeft="964" ratioRight="322" relationship="2" relative="org.eclipse.ui.internal.ViewStack@440bf329">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="762" ratioRight="254" relationship="2" relative="devices">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 </folder>
 </info>
-<info folder="true" part="left" ratio="0.25" ratioLeft="187" ratioRight="561" relationship="4" relative="org.eclipse.ui.internal.ViewStack@440bf329">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
-<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
-<page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
-<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
-<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
-<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<info folder="true" part="logcat" ratio="0.79941434" ratioLeft="546" ratioRight="137" relationship="4" relative="devices">
+<folder appearance="2" expanded="2">
+<page content="com.android.ide.eclipse.ddms.views.LogCatView:*" label="LabelNotFound"/>
+<page content="com.android.ide.eclipse.ddms.views.LogCatView" label="LogCat"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.2496112" ratioLeft="321" ratioRight="965" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.7486631" ratioLeft="420" ratioRight="141" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
-<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
-<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
-<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
-<page content="org.eclipse.jdt.ui.SourceView" label="LabelNotFound"/>
-<page content="org.eclipse.jdt.ui.JavadocView" label="LabelNotFound"/>
-<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<info part="org.eclipse.ui.editorss" ratio="0.2992126" ratioLeft="304" ratioRight="712" relationship="2" relative="devices"/>
+<info folder="true" part="ddms-detail" ratio="0.5" ratioLeft="356" ratioRight="356" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="com.android.ide.eclipse.ddms.views.ThreadView:*" label="LabelNotFound"/>
+<page content="com.android.ide.eclipse.ddms.views.ThreadView" label="Threads"/>
+<page content="com.android.ide.eclipse.ddms.views.HeapView" label="Heap"/>
+<page content="com.android.ide.eclipse.ddms.views.AllocTrackerView" label="Allocation Tracker"/>
+<page content="com.android.ide.eclipse.ddms.views.NetworkStatsView" label="Network Statistics"/>
+<page content="com.android.ide.eclipse.ddms.views.FileExplorerView" label="File Explorer"/>
+<page content="com.android.ide.eclipse.ddms.views.EmulatorControlView" label="Emulator Control"/>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@6c892ba5" ratio="0.2496112" ratioLeft="321" ratioRight="965" relationship="2" relative="org.eclipse.ui.internal.ViewStack@440bf329">&#x0A;<folder activePageID="org.eclipse.jdt.ui.PackagesView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.jdt.ui.PackagesView" label="Packages"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
-</presentation>
-</folder>
-</info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@2190954e" ratio="0.32953367" ratioLeft="318" ratioRight="647" relationship="2" relative="org.eclipse.ui.internal.ViewStack@6c892ba5">&#x0A;<folder activePageID="org.eclipse.jdt.ui.TypesView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.jdt.ui.TypesView" label="Types"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
-</presentation>
-</folder>
-</info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@1b3a4519" ratio="0.4992272" ratioLeft="323" ratioRight="324" relationship="2" relative="org.eclipse.ui.internal.ViewStack@2190954e">&#x0A;<folder activePageID="org.eclipse.jdt.ui.MembersView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.jdt.ui.MembersView" label="Members"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
-</presentation>
-</folder>
-</info>
-</mainWindow>
-</layout>
-</perspective>
-<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
-<descriptor descriptor="org.eclipse.jdt.ui.JavaPerspective" id="&lt;&lt;Java&gt;&gt;" label="&lt;&lt;Java&gt;&gt;"/>
-<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
-<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
-<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
-<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
-<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
-<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
-<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
-<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
-<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
-<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
-<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
-<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
-<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
-<alwaysOnActionSet id="org.eclipse.egit.ui.navigation"/>
-<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
-<alwaysOnActionSet id="org.eclipse.wb.core.ui.actionset"/>
-<alwaysOnActionSet id="tudresden.ocl20.pivot.interpreter.ui.actionSet"/>
-<alwaysOnActionSet id="tudresden.ocl20.pivot.modelbus.ui.actionSet"/>
-<alwaysOnActionSet id="tudresden.ocl20.pivot.tools.codegen.declarativ.ocl2sql.ui.actionSet"/>
-<alwaysOnActionSet id="tudresden.ocl20.pivot.tools.codegen.ocl2java.ui.actionSet"/>
-<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
-<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
-<alwaysOnActionSet id="adt.actionSet.wizards"/>
-<alwaysOnActionSet id="adt.actionSet.refactorings"/>
-<alwaysOnActionSet id="adt.actionSet.avdManager"/>
-<alwaysOnActionSet id="adt.actionSet.lint"/>
-<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
-<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
-<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
-<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
-<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
-<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
-<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
-<show_view_action id="org.eclipse.ui.views.ProblemView"/>
-<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
-<show_view_action id="org.eclipse.ui.views.TaskList"/>
-<show_view_action id="org.eclipse.ui.views.ProgressView"/>
-<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
-<show_view_action id="org.eclipse.ui.texteditor.TemplatesView"/>
-<show_view_action id="org.eclipse.pde.runtime.LogView"/>
-<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
-<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
-<show_view_action id="org.eclipse.wb.core.StructureView"/>
-<show_view_action id="org.eclipse.wb.core.PaletteView"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
-<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewJavaWorkingSetWizard"/>
-<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
-<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
-<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
-<new_wizard_action id="com.android.ide.eclipse.adt.project.NewProjectWizard"/>
-<new_wizard_action id="com.android.ide.eclipse.editors.wizards.NewXmlFileWizard"/>
-<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
-<new_wizard_action id="org.eclipse.mylyn.tasks.ui.wizards.new.repository.task"/>
-<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
-<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
-<perspective_action id="com.android.ide.eclipse.ddms.Perspective"/>
-<perspective_action id="com.android.ide.eclipse.hierarchyviewer.PixelPerfectPespective"/>
-<perspective_action id="com.android.ide.eclipse.hierarchyviewer.TreeViewPerspective"/>
-<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
-<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
-<view id="org.eclipse.ui.views.ProblemView"/>
-<view id="org.eclipse.ui.console.ConsoleView"/>
-<view id="org.eclipse.ui.views.ContentOutline"/>
-<view id="org.eclipse.ui.views.ResourceNavigator"/>
-<fastViewBars/>
-<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="left">&#x0A;<folder activePageID="org.eclipse.ui.views.ResourceNavigator" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ResourceNavigator" label="Navigator"/>
-<page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
-<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
-<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
-<page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
-<page content="org.eclipse.wb.core.StructureView" label="LabelNotFound"/>
-<page content="org.eclipse.wb.core.PaletteView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
-</presentation>
-</folder>
-</info>
-<info folder="true" part="stickyFolderRight" ratio="0.74960506" ratioLeft="949" ratioRight="317" relationship="2" relative="left">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
-<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
-<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
-</folder>
-</info>
-<info part="org.eclipse.ui.editorss" ratio="0.14722446" ratioLeft="183" ratioRight="1060" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.75244755" ratioLeft="538" ratioRight="177" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
-<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
-<page content="org.eclipse.jdt.ui.JavadocView" label="LabelNotFound"/>
-<page content="org.eclipse.jdt.ui.SourceView" label="LabelNotFound"/>
-<page content="com.android.ide.eclipse.ddms.views.LogCatView" label="LabelNotFound"/>
-<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
-<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
-<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
-<part id="1"/>
-</presentation>
-</folder>
-</info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@1958e4ee" ratio="0.8259224" ratioLeft="873" ratioRight="184" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.mylyn.tasks.ui.views.tasks" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
-</presentation>
-</folder>
-</info>
-<info folder="true" part="right" ratio="0.49910873" ratioLeft="280" ratioRight="281" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1958e4ee">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
-<page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
-<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
-</presentation>
-</folder>
-</info>
-<info part="org.eclipse.egit.ui.RepositoriesView" ratio="0.5989305" ratioLeft="448" ratioRight="300" relationship="4" relative="left"/>
 </mainWindow>
 </layout>
 </perspective>
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
-<alwaysOnActionSet id="org.eclipse.egit.ui.navigation"/>
-<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
 <alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
 <alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
@@ -663,25 +177,17 @@
 <alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
 <alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
 <alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
-<alwaysOnActionSet id="org.eclipse.wb.core.ui.actionset"/>
-<alwaysOnActionSet id="tudresden.ocl20.pivot.interpreter.ui.actionSet"/>
-<alwaysOnActionSet id="tudresden.ocl20.pivot.modelbus.ui.actionSet"/>
-<alwaysOnActionSet id="tudresden.ocl20.pivot.tools.codegen.declarativ.ocl2sql.ui.actionSet"/>
-<alwaysOnActionSet id="tudresden.ocl20.pivot.tools.codegen.ocl2java.ui.actionSet"/>
-<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
-<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
-<alwaysOnActionSet id="adt.actionSet.wizards"/>
-<alwaysOnActionSet id="adt.actionSet.refactorings"/>
-<alwaysOnActionSet id="adt.actionSet.avdManager"/>
-<alwaysOnActionSet id="adt.actionSet.lint"/>
 <alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
 <alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
 <alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
 <alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="adt.actionSet.wizards"/>
+<alwaysOnActionSet id="adt.actionSet.avdManager"/>
+<alwaysOnActionSet id="adt.actionSet.lint"/>
+<alwaysOnActionSet id="adt.actionSet.refactorings"/>
 <alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
 <alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
 <alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
-<alwaysOnActionSet id="com.google.gdt.eclipse.designer.actionset"/>
 <show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
 <show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
 <show_view_action id="org.eclipse.jdt.ui.SourceView"/>
@@ -697,9 +203,6 @@
 <show_view_action id="org.eclipse.ui.texteditor.TemplatesView"/>
 <show_view_action id="org.eclipse.pde.runtime.LogView"/>
 <show_view_action id="org.eclipse.ant.ui.views.AntView"/>
-<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
-<show_view_action id="org.eclipse.wb.core.StructureView"/>
-<show_view_action id="org.eclipse.wb.core.PaletteView"/>
 <new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
 <new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
 <new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
@@ -715,22 +218,20 @@
 <new_wizard_action id="com.android.ide.eclipse.adt.project.NewProjectWizard"/>
 <new_wizard_action id="com.android.ide.eclipse.editors.wizards.NewXmlFileWizard"/>
 <new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
-<new_wizard_action id="org.eclipse.mylyn.tasks.ui.wizards.new.repository.task"/>
 <perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
 <perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
 <perspective_action id="com.android.ide.eclipse.ddms.Perspective"/>
 <perspective_action id="com.android.ide.eclipse.hierarchyviewer.PixelPerfectPespective"/>
 <perspective_action id="com.android.ide.eclipse.hierarchyviewer.TreeViewPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.RunToLine"/>
 <hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
 <view id="org.eclipse.jdt.ui.PackageExplorer"/>
 <view id="org.eclipse.ui.views.ProblemView"/>
 <view id="org.eclipse.jdt.ui.JavadocView"/>
 <view id="org.eclipse.jdt.ui.SourceView"/>
-<view id="com.android.ide.eclipse.ddms.views.LogCatView"/>
 <view id="org.eclipse.ui.console.ConsoleView"/>
 <view id="org.eclipse.ui.views.ContentOutline"/>
-<view id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
 <fastViewBars/>
 <layout>
 <mainWindow>
@@ -741,27 +242,25 @@
 <page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
 <page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
-<page content="org.eclipse.wb.core.StructureView" label="LabelNotFound"/>
-<page content="org.eclipse.wb.core.PaletteView" label="LabelNotFound"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="stickyFolderRight" ratio="0.7495961" ratioLeft="928" ratioRight="310" relationship="2" relative="left">
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@3fb2bb77" ratio="0.75" ratioLeft="762" ratioRight="254" relationship="2" relative="left">
 <folder appearance="2" expanded="2">
 <page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.1795082" ratioLeft="219" ratioRight="1001" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.8295302" ratioLeft="618" ratioRight="127" relationship="4" relative="org.eclipse.ui.editorss">
+<info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="254" ratioRight="762" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.74963397" ratioLeft="512" ratioRight="171" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
 <page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
-<page content="com.android.ide.eclipse.ddms.views.LogCatView" label="LogCat"/>
 <page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
 <page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
@@ -771,19 +270,10 @@
 <part id="1"/>
 <part id="2"/>
 <part id="3"/>
-<part id="4"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@31fc049e" ratio="0.7468599" ratioLeft="773" ratioRight="262" relationship="2" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.mylyn.tasks.ui.views.tasks" appearance="2" expanded="2">
-<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="Task List"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-</presentation>
-</folder>
-</info>
-<info folder="true" part="right" ratio="0.49910873" ratioLeft="280" ratioRight="281" relationship="4" relative="org.eclipse.ui.internal.ViewStack@31fc049e">
+<info folder="true" part="right" ratio="0.7493438" ratioLeft="571" ratioRight="191" relationship="2" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
 <page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
@@ -793,169 +283,27 @@
 </presentation>
 </folder>
 </info>
-<info part="org.eclipse.egit.ui.RepositoriesView" ratio="0.5989305" ratioLeft="448" ratioRight="300" relationship="4" relative="left"/>
 </mainWindow>
 </layout>
 </perspective>
 </perspectives>
 <workingSets/>
-<navigationHistory>
-<editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MaynoothIndoorNavigator/src/android/pack/MaynoothIndoorNavigatorActivity.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" path="/CustomMaps/AndroidManifest.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" path="/MaynoothIndoorNavigator/AndroidManifest.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" path="/ZXing/AndroidManifest.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ZXing/src/com/google/zxing/client/android/CaptureActivityHandler.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ZXing/src/com/google/zxing/client/android/CaptureActivity.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CustomMaps/src/com/custommapsapp/android/CustomMaps.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" path="/QR_Code_Java/src/net/viralpatel/qrcode/QRCodeGenerator.java"/>
-</editors>
-<item historyLabel="CustomMaps Manifest" index="1"/>
-<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
-<item historyLabel="CustomMaps Manifest" index="1"/>
-<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
-<item historyLabel="CustomMaps Manifest" index="1"/>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
-<position info="not_deleted" x="8139" y="0"/>
-</item>
-<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
-<item historyLabel="CustomMaps Manifest" index="1"/>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
-<position info="not_deleted" x="8139" y="0"/>
-</item>
-<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
-<position info="not_deleted" x="8139" y="0"/>
-</item>
-<item historyLabel="CustomMaps Manifest" index="1"/>
-<item historyLabel="ZXing Manifest" index="3"/>
-<item historyLabel="CustomMaps Manifest" index="1"/>
-<item historyLabel="ZXing Manifest" index="3"/>
-<item historyLabel="CaptureActivityHandler.java" index="4">
-<position info="not_deleted" x="3" y="0"/>
-</item>
-<item historyLabel="ZXing Manifest" index="3"/>
-<item historyLabel="CaptureActivity.java" index="5">
-<position info="not_deleted" x="27553" y="12"/>
-</item>
-<item historyLabel="CustomMaps.java" index="6">
-<position info="not_deleted" x="3" y="0"/>
-</item>
-<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
-<item historyLabel="CustomMaps.java" index="6">
-<position info="not_deleted" x="2053" y="25"/>
-</item>
-<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
-<item historyLabel="CaptureActivity.java" index="5">
-<position info="not_deleted" x="27553" y="12"/>
-</item>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
-<position info="not_deleted" x="8139" y="0"/>
-</item>
-<item historyLabel="CustomMaps Manifest" index="1"/>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
-<position info="not_deleted" x="8139" y="0"/>
-</item>
-<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
-<position info="not_deleted" x="8139" y="0"/>
-</item>
-<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
-<position info="not_deleted" x="8139" y="0"/>
-</item>
-<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
-<item historyLabel="ZXing Manifest" index="3"/>
-<item historyLabel="MaynoothIndoorNavigator Manifest" index="2"/>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
-<position info="not_deleted" x="8139" y="0"/>
-</item>
-<item historyLabel="ZXing Manifest" index="3"/>
-<item historyLabel="CustomMaps Manifest" index="1"/>
-<item historyLabel="ZXing Manifest" index="3"/>
-<item historyLabel="CustomMaps Manifest" index="1"/>
-<item historyLabel="ZXing Manifest" index="3"/>
-<item historyLabel="CustomMaps Manifest" index="1"/>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
-<position info="not_deleted" x="8109" y="30"/>
-</item>
-<item historyLabel="CustomMaps Manifest" index="1"/>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
-<position info="not_deleted" x="8109" y="30"/>
-</item>
-<item historyLabel="CustomMaps Manifest" index="1"/>
-<item historyLabel="ZXing Manifest" index="3"/>
-<item historyLabel="MaynoothIndoorNavigatorActivity.java" index="0">
-<position info="not_deleted" x="8362" y="0"/>
-</item>
-<item historyLabel="CustomMaps Manifest" index="1"/>
-<item historyLabel="ZXing Manifest" index="3"/>
-<item historyLabel="CustomMaps Manifest" index="1"/>
-<item active="true" historyLabel="QRCodeGenerator.java" index="7">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-</navigationHistory>
+<navigationHistory/>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
 <trimArea IMemento.internal.id="128">
-<trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
 <trimArea IMemento.internal.id="1024">
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.HeapStatus"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
 </trimArea>
 </trimLayout>
 </window>
-<mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" name="QRCodeGenerator.java" tooltip="QR_Code_Java/src/net/viralpatel/qrcode/QRCodeGenerator.java">
-<persistable path="/QR_Code_Java/src/net/viralpatel/qrcode/QRCodeGenerator.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CustomMaps.java" tooltip="CustomMaps/src/com/custommapsapp/android/CustomMaps.java">
-<persistable path="/CustomMaps/src/com/custommapsapp/android/CustomMaps.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CaptureActivity.java" tooltip="ZXing/src/com/google/zxing/client/android/CaptureActivity.java">
-<persistable path="/ZXing/src/com/google/zxing/client/android/CaptureActivity.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CaptureActivityHandler.java" tooltip="ZXing/src/com/google/zxing/client/android/CaptureActivityHandler.java">
-<persistable path="/ZXing/src/com/google/zxing/client/android/CaptureActivityHandler.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" tooltip="ZXing/AndroidManifest.xml">
-<persistable path="/ZXing/AndroidManifest.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" tooltip="CustomMaps/AndroidManifest.xml">
-<persistable path="/CustomMaps/AndroidManifest.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="strings.xml" tooltip="MaynoothIndoorNavigator/res/values/strings.xml">
-<persistable path="/MaynoothIndoorNavigator/res/values/strings.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MapUpMapDisplay.java" tooltip="CustomMaps/src/com/custommapsapp/android/MapUpMapDisplay.java">
-<persistable path="/CustomMaps/src/com/custommapsapp/android/MapUpMapDisplay.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MapDisplay.java" tooltip="CustomMaps/src/com/custommapsapp/android/MapDisplay.java">
-<persistable path="/CustomMaps/src/com/custommapsapp/android/MapDisplay.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EditPreferences.java" tooltip="CustomMaps/src/com/custommapsapp/android/storage/EditPreferences.java">
-<persistable path="/CustomMaps/src/com/custommapsapp/android/storage/EditPreferences.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="location.png" tooltip="MaynoothIndoorNavigator/res/drawable-mdpi/location.png">
-<persistable path="/MaynoothIndoorNavigator/res/drawable-mdpi/location.png"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="pin.png" tooltip="MaynoothIndoorNavigator/res/drawable-mdpi/pin.png">
-<persistable path="/MaynoothIndoorNavigator/res/drawable-mdpi/pin.png"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="QRCodeJava.java" tooltip="QR_Code_Java/src/net/viralpatel/qrcode/QRCodeJava.java">
-<persistable path="/QR_Code_Java/src/net/viralpatel/qrcode/QRCodeJava.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MaynoothIndoorNavigatorActivity.java" tooltip="MaynoothIndoorNavigator/src/android/pack/MaynoothIndoorNavigatorActivity.java">
-<persistable path="/MaynoothIndoorNavigator/src/android/pack/MaynoothIndoorNavigatorActivity.java"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Overlay.class" tooltip="com.google.android.maps.Overlay">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=MaynoothIndoorNavigator/\/home\/silvian\/android-sdk-linux\/add-ons\/addon-google_apis-google-15\/libs\/maps.jar&lt;com.google.android.maps(Overlay.class"/>
-</file>
-</mruList>
+<mruList/>
 </workbench>
