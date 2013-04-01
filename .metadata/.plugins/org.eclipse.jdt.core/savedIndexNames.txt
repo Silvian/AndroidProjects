@@ -1,0 +1,13 @@
+INDEX VERSION 1.126+/Users/silvian/JavaProjects/AndroidProjects/.metadata/.plugins/org.eclipse.jdt.core
+884758432.index
+1249745334.index
+4203889758.index
+3865622082.index
+1458256547.index
+2866552604.index
+3589989499.index
+512732384.index
+653380287.index
+2723620644.index
+378470069.index
+4073557009.index
